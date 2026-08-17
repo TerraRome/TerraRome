@@ -1,16 +1,20 @@
-<h1 align="center">Hi, I'm Tengku Alfarizi 👋</h1>
+<h1 align="center">Tengku Alfarizi</h1>
 
 <p align="center">
-  Flutter Developer · Building mobile experiences
+  Flutter Developer &nbsp;·&nbsp; Mobile-first builder
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TerraRome&style=flat&color=blue" alt="profile views" />
 </p>
 
 ---
 
 ### About Me
 
-- 📱 Focused on mobile development with **Flutter**
-- 🛠 Also work with **JavaScript / TypeScript** and **Python**
-- 🎯 Always learning and building
+- 📱 Building mobile apps with **Flutter & Dart**
+- 🛠 Also comfortable with **JavaScript / TypeScript** and **Python**
+- 🚀 Focused on clean architecture and great user experience
 
 ---
 
@@ -26,9 +30,18 @@
 
 ---
 
+### Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**ReCharge**](https://github.com/TerraRome/recharge-app-flutter-2) | Mobile app for powerbank rental — published on Play Store & App Store | Flutter · BLoC · Amplify |
+| [**TaskFlow**](https://github.com/TerraRome/task_manager) | Task manager app with 14 screens, dark mode, and local persistence | Flutter · Riverpod · Hive |
+
+---
+
 ### GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=TerraRome&show_icons=true&theme=default&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TerraRome&show_icons=true&theme=default&hide_border=true&include_all_commits=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TerraRome&layout=compact&hide_border=true" height="150" />
 </p>
