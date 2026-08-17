@@ -48,7 +48,7 @@ Mobile engineer building production Flutter applications with a focus on archite
 
 ---
 
-**[TaskFlow](https://github.com/TerraRome/task_manager)** — Task and project management app built with Flutter
+**[Task Manager](https://github.com/TerraRome/task_manager)** — Task and project management app built with Flutter
 
 - Feature-first architecture across 14 screens: scheduling, statistics, project tracking
 - Hive TypeAdapters written manually without build_runner; dark mode via custom InheritedWidget ThemeProvider
