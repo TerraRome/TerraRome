@@ -38,6 +38,16 @@ Mobile engineer building production Flutter applications with a focus on archite
 
 ---
 
+**[Hot Pot](https://github.com/TerraRome/Hot-Pot)** — Flutter restaurant app built as a portfolio project
+
+- 26 routes covering the full F&B flow: auth, browse, cart, checkout, live order tracking, and loyalty
+- Animated CustomPainter live tracking map, bilingual localization (EN/ID), and a custom Crimson Dragon design system
+- Code generation with Freezed, json_serializable, and Riverpod generator
+
+`Flutter` `Riverpod` `GoRouter` `Freezed` `Dio` `Localization`
+
+---
+
 **[TaskFlow](https://github.com/TerraRome/task_manager)** — Task and project management app built with Flutter
 
 - Feature-first architecture across 14 screens: scheduling, statistics, project tracking
