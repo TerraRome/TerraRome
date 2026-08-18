@@ -38,6 +38,16 @@ Mobile engineer building production Flutter applications with a focus on archite
 
 ---
 
+**TomSir** — Mobile POS system with React Native client and Node.js backend — [App](https://github.com/TerraRome/TomSirApps) · [Backend](https://github.com/TerraRome/TomSirBackend)
+
+- Full-stack POS application: mobile cashier app with Bluetooth ESC/POS printer support and Excel report export
+- Redux + Redux Persist for offline-ready state; JWT authentication; Codemagic CI/CD pipeline
+- Backend: Express REST API with Sequelize ORM, MySQL, Joi validation, cron jobs, and file upload
+
+`React Native` `TypeScript` `Redux` `Node.js` `Express` `Sequelize` `MySQL` `Codemagic`
+
+---
+
 **[Hot Pot](https://github.com/TerraRome/Hot-Pot)** — Flutter restaurant app built as a portfolio project
 
 - 26 routes covering the full F&B flow: auth, browse, cart, checkout, live order tracking, and loyalty
