@@ -29,6 +29,16 @@ Mobile engineer building production Flutter applications with a focus on archite
 
 ### Featured Projects
 
+**Volta** — Contributed to the Flutter mobile application for an electric motorcycle ecosystem, available on [Google Play](https://play.google.com/store/apps/details?id=com.mcash.volta)
+
+- Clean Architecture with BLoC state management, GetIt + Injectable dependency injection across 35+ feature modules
+- Firebase integration (Analytics, Crashlytics, Messaging), secure storage, MQTT real-time connection, and location/maps
+- Multi-flavor build configuration, localization (flutter_intl), QR scanning, and in-app payment flow
+
+`Flutter` `BLoC` `Clean Architecture` `Firebase` `GetIt` `MQTT` `Dio` `Freezed`
+
+---
+
 **ReCharge** — Production Flutter app for powerbank rental, published on [Play Store](https://play.google.com/store/apps/details?id=id.recharge.app) & [App Store](https://apps.apple.com/id/app/recharge-power-on-the-go/id1324435056)
 
 - BLoC state management with AWS Amplify + Cognito authentication
